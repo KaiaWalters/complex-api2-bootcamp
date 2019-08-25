@@ -1,23 +1,23 @@
 
-# 📊 Project: Complex API 2
+# Vivisection: A complex API project
+[Link to the Project: The Foodist Page](https://projectvivisection.netlify.com)
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+___
+![bg-signup](https://octodex.github.com/images/Screen Shot 2019-08-25 at 3.20.34 PM.png)
 
-### How to submit your code for review:
+The Foodist is a static webpage that I based off of The Foodist website.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How its Made
+This project involved the use of HTML and CSS. I made great use of floats when positioning elements on this page. In order to emulate The Foodist's website to the T I made use of a color picker. Images where borrowed from google (with usage rights in mind).
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+## What I Learned
+When tackling this project, the greatest challenge was using floats to position the next buttons at the bottom of the paragraph section. Many of the sectuons in this project were virtually invisible, but made up the stylish grey lines and borders that gave the site its asthetic. So while constructing my layout I have to admit I made a few mistakes. Luckily I was able to bounce back quickly repositioning my sections to get everything where it was suposed to be.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
