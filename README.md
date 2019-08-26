@@ -3,7 +3,8 @@
 [Link to the Project: Vivisection Page](https://projectvivisection.netlify.com) 
 
 ___
-![bg-signup](https://octodex.github.com/images/Screen Shot 2019-08-25 at 3.20.34 PM.png)//fix me
+![bg-signup](<img width="1263" alt="Screen Shot 2019-08-25 at 3 20 34 PM" src="https://user-images.githubusercontent.com/49502261/63658412-522a0800-c778-11e9-837a-5b1d57c44a3c.png">
+)
 
 Vivisection is a fullstack application that utilizes geolocation. The purpose of the app is to allow locals to document local histories and showcase them in an engaging way. The app encourages users to explore their community and learn more about what has happened in it. Inspired by the rise in gentrification in Boston and the need to preserve the voices of marginalized communities.
 
