@@ -18,6 +18,8 @@ Tackling the Map Box API was definitely one of the most interesting parts of thi
 ## Installation
 -[x]Clone repo
 -[x]Run npm install
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
 
 ## Usage
 -[x]Run node server.js
