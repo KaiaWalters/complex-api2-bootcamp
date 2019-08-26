@@ -6,19 +6,17 @@ ___
 <img width="1263" alt="Screen Shot 2019-08-25 at 3 20 34 PM" src="https://user-images.githubusercontent.com/49502261/63658412-522a0800-c778-11e9-837a-5b1d57c44a3c.png">
 
 
-Vivisection is a fullstack application that utilizes geolocation. The purpose of the app is to allow locals to document local histories and showcase them in an engaging way. The app encourages users to explore their community and learn more about what has happened in it. Inspired by the rise in gentrification in Boston and the need to preserve the voices of marginalized communities.
+Vivisection is complex API application. It sources its data from the International Mouse Phenotyping Consortium and Webster Dictionary's API. The app fetches details on a mouse: age, sex,the procedure that was performed on the mouse, and the allele that was being targeted in the experiment. The procedure is defined by the Webster API and it definition is displayed on screen. The inspiration for the project came from my time spent in Bio labs in college where we wouls analyse the genes and mutated alleles of flies. When I saw the mouse API I thought it would be useful to see the correlation between the allele being targeted and the procedure being performed on a mouse. And I thought, "Why not have an app that defines these procedures for you rather than flipping thorugh a dictionary"?
 
 ## How its Made
-The application is built using Node.Js, Express, MongoDB, JSON, XML, HTML, CSS, JavaScript, and Mapbox API.
+The application is built using JSON, HTML, CSS, JavaScript, Webster Dictionary API, and IMPC API.
 
 
 ## Reflections
-Tackling the Map Box API was definitely one of the most interesting parts of this project, since I had to adapt much of its Javascript code (used to create certain elements) to my own application which created new listed items using EJS. It was a puzzle figuring out how to fetch information from my database and render it on the /maps page. MapBox had intended users of their API to hard code information to be rendered. Solving this puzzle was definitely the most gratifying part of the project. 
+This was one of my first projects that utilized APIs and fetxhes, learning how to cycle though JSON objects sent from the database was definitely a learning experience but it was great to see how my understanding of Javascript and loops especially was applicable here. 
 
 ## Installation
 * Clone repo
-* Run npm install
 
 ## Usage
-* Run node server.js
-* Navigate to localhost:8080
+* Open in browser
