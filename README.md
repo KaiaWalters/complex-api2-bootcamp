@@ -16,16 +16,9 @@ The application is built using Node.Js, Express, MongoDB, JSON, XML, HTML, CSS, 
 Tackling the Map Box API was definitely one of the most interesting parts of this project, since I had to adapt much of its Javascript code (used to create certain elements) to my own application which created new listed items using EJS. It was a puzzle figuring out how to fetch information from my database and render it on the /maps page. MapBox had intended users of their API to hard code information to be rendered. Solving this puzzle was definitely the most gratifying part of the project. 
 
 ## Installation
--[x]Clone repo
--[x]Run npm install
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
-          
-          * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Clone repo
+* Run npm install
 
 ## Usage
--[x]Run node server.js
--[x]Navigate to localhost:8080
+* Run node server.js
+* Navigate to localhost:8080
