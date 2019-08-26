@@ -20,6 +20,11 @@ Tackling the Map Box API was definitely one of the most interesting parts of thi
 -[x]Run npm install
  Markup : - [ ] An uncompleted task
           - [x] A completed task
+          
+          * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
 ## Usage
 -[x]Run node server.js
